@@ -116,3 +116,5 @@ def_example(example.boost.exceptions "examples/boost/exceptions.cpp")
 def_example(example.boost.exceptions2 "examples/boost/exceptions2.cpp")
 # def_example(example.boost.stack_unwinding "examples/boost/stack_unwinding.cpp")
 def_example(example.boost.invert_control "examples/boost/invert_control.cpp")
+
+def_example(example.fibers.switch_thread "examples/fibers/switch_thread.cpp")
